@@ -1,0 +1,21 @@
+{
+  "valuation_date":"2026-09-01", "currency":"USD", "units":"millions except per share", "price":217.44,
+  "history":{"FY2024":{"revenue":60922,"cogs":16621,"rd":8675,"sga":2654,"ebit":32972,"other_income":846,"tax":4058,"ni":29760},"FY2025":{"revenue":130497,"cogs":32639,"rd":12914,"sga":3491,"ebit":81453,"other_income":2573,"tax":11146,"ni":72880},"FY2026":{"revenue":215938,"cogs":62475,"rd":18497,"sga":4579,"ebit":130387,"other_income":11063,"tax":21383,"ni":120067}},
+  "h1":{"revenue":177837,"cogs":44538,"rd":13375,"sga":2654,"ebit":117270,"other_income":24140,"tax":23400,"ni":118010,"da":2124,"cfo":74421,"cfi":-35124,"cff":-27459,"begin_cash":10605,"end_cash":22443,"interest":329,"capex":4434,"dividends":6290,"amort":470},
+  "opening":{"cash":22443,"debt_securities":34143,"equity_securities":42783,"ar":63059,"inventory":31575,"prepaid":3409,"ppe":14285,"lease_assets":5390,"goodwill":21125,"intangible":2998,"dta":12159,"private_investments":51157,"other_assets":15746,"ap":15059,"accrued":20768,"debt":33366,"lease_liabilities":4985,"other_liabilities":17110,"equity":228984},
+  "reported_assets":320272,"reported_liabilities":91288,
+  "nonoperating":{"public_equity_in_other_assets":4957},
+  "capital":{"rf":0.0479,"beta":1.8,"erp":0.05,"spread":0.01,"tax":0.17,"basic_shares":24100,"existing_awards":168,"cash_floor":15000,"public_haircut":0.15,"private_haircut":0.35,"other_claims":11794},
+  "operating":{"q3_revenue":108000,"q4_revenue":120000,"rd_ratio":0.08,"sga_ratio":0.02,"ar_days":65,"inventory_days":130,"ap_days":60,"prepaid_ratio":0.01,"accrued_ratio":0.04,"capex_ratio":0.035,"dep_rate":0.23,"amort_schedule":[482,795,642,528,468,83],"terminal_roic":0.30,"terminal_growth":0.03,"interest_rate":0.055},
+  "cases":{
+    "low":{"q3_factor":0.85,"q4_factor":0.75,"growth":[0.10,0.08,0.05,0.04],"margins":[0.68,0.65,0.63,0.62,0.62],"wacc_add":0.02,"ar_add":15,"inventory_add":40,"claim":15000},
+    "base":{"q3_factor":1,"q4_factor":1,"growth":[0.40,0.25,0.15,0.10],"margins":[0.74,0.73,0.72,0.71,0.70],"wacc_add":0,"ar_add":0,"inventory_add":0,"claim":0},
+    "high":{"q3_factor":1.02,"q4_factor":1.10,"growth":[0.65,0.35,0.25,0.15],"margins":[0.75,0.75,0.74,0.73,0.72],"wacc_add":-0.01,"ar_add":-5,"inventory_add":-10,"claim":0}
+  },
+  "peers":[
+    {"ticker":"NVDA","period":"2026-07-26","published":"2026-08-27","price":217.44,"shares_proxy":24285,"cash":22443,"securities":76926,"debt":33366,"h1_revenue":177837,"h1_ebit":117270,"h1_ni":118010,"h1_diluted_eps":4.85},
+    {"ticker":"AMD","period":"2026-06-27","published":"2026-08-04","price":459.61,"shares_proxy":1659,"cash":5086,"securities":8025,"debt":3226,"h1_revenue":21789,"h1_ebit":3466,"h1_ni":3680,"h1_diluted_eps":2.22},
+    {"ticker":"AVGO","period":"2026-05-03","published":"2026-06-03","price":369.68,"shares_proxy":4876,"cash":19628,"securities":0,"debt":64907,"h1_revenue":41498,"h1_ebit":19351,"h1_ni":16659,"h1_diluted_eps":3.41}
+  ]
+}
+

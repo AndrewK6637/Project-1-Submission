@@ -1,0 +1,24 @@
+# Edition A — Retrospective Recollection
+## NVIDIA Corporation
+
+**Date:** October 19, 2026
+
+**Document status:** Retrospective recollection — not the original Edition A.
+
+### Academic Integrity Disclosure
+
+My original Edition A work was revised with ChatGPT assistance. Although I initially developed my thoughts independently, I mistakenly submitted the AI-revised version rather than my original writing. I no longer have access to my original draft.
+
+This document is a retrospective recollection of my initial thinking, not a reproduction of the original document. The AI-revised submission has been preserved separately.
+
+### My Original Thinking
+
+NVIDIA is an exceptionally strong company with a dominant position in the AI ecosystem. Its revenue and profitability had increased dramatically over the past few years due to demand for AI infrastructure. NVIDIA's premier technology, such as its GPUs and software, made it difficult for others to challenge its dominant position. With that being said, you still have to factor in if a company's price is correctly valued.
+
+### My Initial Concerns
+
+AI spending might slow down in the future once the initial build-out phase slows down. NVIDIA relies on a small number of customers. AMD and custom AI chips developed by other companies might soon challenge NVIDIA's market position. NVIDIA's future earnings and cash flows might not grow fast enough to justify an expensive stock price.
+
+### What I Remember About My Investment Recommendation
+
+My initial recommendation was to WATCH/DEFER, rather than purchasing NVIDIA stock. While there are strong pros, the cons are also quite risky. I believe the central question is if the large current AI build out will cause significant returns for the companies buying NVIDIA's chips.
